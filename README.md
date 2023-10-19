@@ -20,4 +20,4 @@
 
 🎓 Além disso, busquei aprimorar minhas habilidades com certificações adicionais em Agile Management & SCRUM, Design Thinking, Inteligência Artificial e Marketing Digital. Isso me permite aplicar minha expertise em Ciência de Dados e Inteligência Artificial para potencializar estratégias de marketing e impulsionar vendas.
 
-https://www.canva.com/design/DAETxbdqc3I/4Insu9gkM4t048xgiLCc0w/view
+<iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://drive.google.com/file/d/1K0JhT6E9AJ7aTu6lhm9ykMmA5EzwjHcM/view?usp=sharing"width="100%" height="600"></iframe>
