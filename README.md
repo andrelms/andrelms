@@ -1,3 +1,5 @@
+# Olá, Sou André Machado Cientista de Dados Especializado em Inteligência Artifical
+
 🚀 Sou um profissional orientado por resultados, com excelentes habilidades de comunicação e sólido know-how em Análise de Dados e Inteligência de Negócios. 💬
 
 🔬 No campo Acadêmico em Ciência de Dados e Inteligência Artificial, minhas principais competências incluem:
@@ -20,4 +22,10 @@
 
 🎓 Além disso, busquei aprimorar minhas habilidades com certificações adicionais em Agile Management & SCRUM, Design Thinking, Inteligência Artificial e Marketing Digital. Isso me permite aplicar minha expertise em Ciência de Dados e Inteligência Artificial para potencializar estratégias de marketing e impulsionar vendas.
 
-<iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://drive.google.com/file/d/1K0JhT6E9AJ7aTu6lhm9ykMmA5EzwjHcM/view?usp=sharing"width="100%" height="600"></iframe>
+**Contato**
+
+[![Canva](https://img.shields.io/badge/View%20Portfolio-Canva-blue?style=flat-square&logo=canva)](https://www.canva.com/design/DAFGIgk_xGo/uGTkcQucrBRvUJ0RGvladw/edit?utm_content=DAFGIgk_xGo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) &nbsp; &nbsp; 
+ [![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/andr%C3%A9-machado-b7475257) &nbsp; &nbsp; 
+[![WhatsApp](https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=flat-square&logo=whatsapp)](https://api.whatsapp.com/send?phone=5551998837555) &nbsp; &nbsp; 
+[![Stack Overflow](https://img.shields.io/badge/Visit%20Profile-Stack%20Overflow-orange?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/9948374/andr%C3%A9-machado)
+
