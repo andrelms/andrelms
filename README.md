@@ -1,7 +1,7 @@
 
 ![Design sem nome (1)](https://github.com/andrelms/andrelms/assets/72582930/7b7296a9-2d47-4e49-8c8f-df8b08c13d95)
 
-# Olá, Sou André Machado Cientista de Dados Especializado em Inteligência Artifical
+# Olá, Sou André Machado Cientista de Dados Especializado em Inteligência Artificial
 
 🚀 Sou um profissional orientado por resultados, com excelentes habilidades de comunicação e sólido know-how em Análise de Dados e Inteligência de Negócios. 💬
 
