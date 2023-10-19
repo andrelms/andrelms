@@ -21,7 +21,7 @@
 - 📊 **Power BI**: Tenho expertise na criação de painéis interativos e relatórios dinâmicos com o uso de Power Editor e DAX.
 - 📈 **Excel Avançado**: Domino recursos avançados como Power Query, Power Pivot e fórmulas personalizadas. Além disso, sou capaz de automatizar tarefas com VBA e DAX.
 - 📂 **Bancos de Dados**: PostgreSQL e Big Query, realizando consultas SQL complexas para extrair informações cruciais.
-- 🚀 **Big Data**: Hadoop, Pig e Spark, bem como linguagens como HiveQL, Scala e Pyhon SQL.
+- 🚀 **Big Data**: Hadoop, Pig e Spark, bem como linguagens como HiveQL, Scala, Pyhon e SQL.
 
 🎓 Além disso, busquei aprimorar minhas habilidades com certificações adicionais em Agile Management & SCRUM, Design Thinking, Inteligência Artificial e Marketing Digital. Isso me permite aplicar minha expertise em Ciência de Dados e Inteligência Artificial para potencializar estratégias de marketing e impulsionar vendas.
 
