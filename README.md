@@ -1,4 +1,3 @@
-
 ![Design sem nome (1)](https://github.com/andrelms/andrelms/assets/72582930/7b7296a9-2d47-4e49-8c8f-df8b08c13d95)
 
 # Olá, Sou André Machado Cientista de Dados Especializado em Inteligência Artificial
@@ -27,32 +26,11 @@
 
 **Contato**
 
-Peço desculpas pela confusão anterior. Para criar um único botão com dois links, com o mesmo estilo dos botões anteriores, você pode usar o código HTML a seguir:
-
-
-**Contato**
-
-<a href="https://www.canva.com/design/DAFGIgk_xGo/uGTkcQucrBRvUJ0RGvladw/edit?utm_content=DAFGIgk_xGo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
-  <img src="https://img.shields.io/badge/View%20Portfolio-Canva-blue?style=flat-square&logo=canva" />
-</a>
-<a href="https://youtube.com/playlist?list=PLIwD3IJ52GhpY4vhFvymOw0wBFyVjnfxv&si=DjnMwYGF5M8NPopu">
-  <img src="https://img.shields.io/badge/Watch%20Playlist-YouTube-red?style=flat-square&logo=youtube" />
-</a>
-
-Neste código, os dois links estão envoltos em um único elemento HTML `<a>` para criar um botão com dois links. Eles têm o mesmo estilo dos botões anteriores e estão alinhados juntos. Certifique-se de que os URLs estejam corretos e correspondam às suas informações reais.
-
-
-<a href="https://www.canva.com/design/DAFGIgk_xGo/uGTkcQucrBRvUJ0RGvladw/edit?utm_content=DAFGIgk_xGo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
-  <img src="https://img.shields.io/badge/View%20Portfolio-Canva-blue?style=flat-square&logo=canva" />
-</a>
-<a href="https://youtube.com/playlist?list=PLIwD3IJ52GhpY4vhFvymOw0wBFyVjnfxv&si=DjnMwYGF5M8NPopu">
-  <img src="https://img.shields.io/badge/Watch%20Playlist-YouTube-red?style=flat-square&logo=youtube" />
-</a>
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/andr%C3%A9-machado-b7475257) &nbsp; &nbsp; 
-[![Stack Overflow](https://img.shields.io/badge/Visit%20Profile-Stack%20Overflow-orange?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/9948374/andr%C3%A9-machado) &nbsp; &nbsp; 
-[![GitHub](https://img.shields.io/badge/Visit%20Profile-GitHub-black?style=flat-square&logo=github)](https://github.com/andrelms) &nbsp; &nbsp; 
-[![YouTube](https://img.shields.io/badge/Visit%20Channel-YouTube-red?style=flat-square&logo=youtube)](https://www.youtube.com/@andrelms) &nbsp; &nbsp; 
-[![Instagram](https://img.shields.io/badge/Visit%20Profile-Instagram-pink?style=flat-square&logo=instagram)](https://www.instagram.com/andrelms_) &nbsp; &nbsp; 
-[![WhatsApp](https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=flat-square&logo=whatsapp)](https://api.whatsapp.com/send?phone=5551998837555) &nbsp; &nbsp; 
-:email: [andrelms_@hotmail.com](mailto:andrelms_@hotmail.com)
+Portfólio: [![Canva](https://img.shields.io/badge/View%20Portfolio-Canva-blue?style=flat-square&logo=canva)](https://www.canva.com/design/DAFGIgk_xGo/uGTkcQucrBRvUJ0RGvladw/edit?utm_content=DAFGIgk_xGo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) &nbsp; &nbsp; 
+LinkedIn: [![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/andr%C3%A9-machado-b7475257) &nbsp; &nbsp; 
+Stack Overflow: [![Stack Overflow](https://img.shields.io/badge/Visit%20Profile-Stack%20Overflow-orange?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/9948374/andr%C3%A9-machado) &nbsp; &nbsp; 
+GitHub: [![GitHub](https://img.shields.io/badge/Visit%20Profile-GitHub-black?style=flat-square&logo=github)](https://github.com/andrelms) &nbsp; &nbsp; 
+YouTube: [![YouTube](https://img.shields.io/badge/Visit%20Channel-YouTube-red?style=flat-square&logo=youtube)](https://www.youtube.com/@andrelms) &nbsp; &nbsp; 
+Instagram: [![Instagram](https://img.shields.io/badge/Visit%20Profile-Instagram-pink?style=flat-square&logo=instagram)](https://www.instagram.com/andrelms_) &nbsp; &nbsp; 
+WhatsApp: [![WhatsApp](https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=flat-square&logo=whatsapp)](https://api.whatsapp.com/send?phone=5551998837555) &nbsp; &nbsp; 
+E-mail: :email: [andrelms_@hotmail.com](mailto:andrelms_@hotmail.com)
