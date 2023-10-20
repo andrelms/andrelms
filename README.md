@@ -25,24 +25,24 @@
 
 🎓 Além disso, busquei aprimorar minhas habilidades com certificações adicionais em Agile Management & SCRUM, Design Thinking, Inteligência Artificial e Marketing Digital. Isso me permite aplicar minha expertise em Ciência de Dados e Inteligência Artificial para potencializar estratégias de marketing e impulsionar vendas.
 
+
 **Contato**
 
-Claro, vou reorganizar os títulos e a ordem dos itens no seu contato conforme solicitado:
-
-```markdown
+```html
 **Contato**
 
-Portfólio: [![Canva](https://img.shields.io/badge/View%20Portfolio-Canva-blue?style=flat-square&logo=canva)](https://www.canva.com/design/DAFGIgk_xGo/uGTkcQucrBRvUJ0RGvladw/edit?utm_content=DAFGIgk_xGo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) &nbsp; &nbsp; 
-LinkedIn: [![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/andr%C3%A9-machado-b7475257) &nbsp; &nbsp; 
-Stack Overflow: [![Stack Overflow](https://img.shields.io/badge/Visit%20Profile-Stack%20Overflow-orange?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/9948374/andr%C3%A9-machado) &nbsp; &nbsp; 
-GitHub: [![GitHub](https://img.shields.io/badge/Visit%20Profile-GitHub-black?style=flat-square&logo=github)](https://github.com/andrelms) &nbsp; &nbsp; 
-YouTube: [![YouTube](https://img.shields.io/badge/Visit%20Channel-YouTube-red?style=flat-square&logo=youtube)](https://www.youtube.com/@andrelms) &nbsp; &nbsp; 
-Instagram: [![Instagram](https://img.shields.io/badge/Visit%20Profile-Instagram-pink?style=flat-square&logo=instagram)](https://www.instagram.com/andrelms_) &nbsp; &nbsp; 
-WhatsApp: [![WhatsApp](https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=flat-square&logo=whatsapp)](https://api.whatsapp.com/send?phone=5551998837555) &nbsp; &nbsp; 
-E-mail: :email: [andrelms_@hotmail.com](mailto:andrelms_@hotmail.com)
+<a href="https://www.canva.com/design/DAFGIgk_xGo/uGTkcQucrBRvUJ0RGvladw/edit?utm_content=DAFGIgk_xGo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+    <button style="background-color: blue; color: white; padding: 5px 10px; border: none; border-radius: 5px; cursor: pointer;">
+        Portfólio
+    </button>
+</a>
+<a href="https://youtube.com/playlist?list=PLIwD3IJ52GhpY4vhFvymOw0wBFyVjnfxv&si=DjnMwYGF5M8NPopu">
+    <button style="background-color: red; color: white; padding: 5px 10px; border: none; border-radius: 5px; cursor: pointer;">
+        Playlist
+    </button>
+</a>
 ```
 
-Agora, os itens de contato estão organizados na ordem solicitada e os títulos estão alinhados com os respectivos links e ícones. Certifique-se de que os URLs estejam corretos e correspondam às suas informações reais.
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/andr%C3%A9-machado-b7475257) &nbsp; &nbsp; 
 [![Stack Overflow](https://img.shields.io/badge/Visit%20Profile-Stack%20Overflow-orange?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/9948374/andr%C3%A9-machado) &nbsp; &nbsp; 
