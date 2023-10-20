@@ -27,7 +27,8 @@
 
 **Contato**
 
-[![Canva](https://img.shields.io/badge/View%20Portfolio-Canva-blue?style=flat-square&logo=canva)](https://www.canva.com/design/DAFGIgk_xGo/uGTkcQucrBRvUJ0RGvladw/edit?utm_content=DAFGIgk_xGo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) &nbsp; &nbsp; 
+[![Canva](https://img.shields.io/badge/View%20Portfolio-Canva-blue?style=flat-square&logo=canva)](https://www.canva.com/design/DAFGIgk_xGo/uGTkcQucrBRvUJ0RGvladw/edit?utm_content=DAFGIgk_xGo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) &nbsp; &nbsp;
+[![YouTube Playlist](https://img.shields.io/badge/Watch%20Playlist-YouTube-red?style=flat-square&logo=youtube)](https://youtube.com/playlist?list=PLIwD3IJ52GhpY4vhFvymOw0wBFyVjnfxv&si=DjnMwYGF5M8NPopu)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/andr%C3%A9-machado-b7475257) &nbsp; &nbsp; 
 [![Stack Overflow](https://img.shields.io/badge/Visit%20Profile-Stack%20Overflow-orange?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/9948374/andr%C3%A9-machado) &nbsp; &nbsp; 
 [![GitHub](https://img.shields.io/badge/Visit%20Profile-GitHub-black?style=flat-square&logo=github)](https://github.com/andrelms) &nbsp; &nbsp; 
