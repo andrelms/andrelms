@@ -28,14 +28,10 @@
 **Contato**
 
 <a href="https://www.canva.com/design/DAFGIgk_xGo/uGTkcQucrBRvUJ0RGvladw/edit?utm_content=DAFGIgk_xGo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
-    <button style="background-color: blue; color: white; padding: 5px 10px; border: none; border-radius: 5px; cursor: pointer;">
-        Portfólio
-    </button>
+    <img src="https://img.shields.io/badge/View%20Portfolio-Canva-blue?style=flat-square&logo=canva" />
 </a>
 <a href="https://youtube.com/playlist?list=PLIwD3IJ52GhpY4vhFvymOw0wBFyVjnfxv&si=DjnMwYGF5M8NPopu">
-    <button style="background-color: red; color: white; padding: 5px 10px; border: none; border-radius: 5px; cursor: pointer;">
-        Playlist
-    </button>
+    <img src="https://img.shields.io/badge/Watch%20Playlist-YouTube-red?style=flat-square&logo=youtube" />
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/andr%C3%A9-machado-b7475257) &nbsp; &nbsp; 
