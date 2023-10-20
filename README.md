@@ -37,6 +37,7 @@
         Playlist
     </button>
 </a>aí
+
 [![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/andr%C3%A9-machado-b7475257) &nbsp; &nbsp; 
 [![Stack Overflow](https://img.shields.io/badge/Visit%20Profile-Stack%20Overflow-orange?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/9948374/andr%C3%A9-machado) &nbsp; &nbsp; 
 [![GitHub](https://img.shields.io/badge/Visit%20Profile-GitHub-black?style=flat-square&logo=github)](https://github.com/andrelms) &nbsp; &nbsp; 
