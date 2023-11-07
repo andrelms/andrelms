@@ -1,4 +1,5 @@
-![Design sem nome (1)](https://github.com/andrelms/andrelms/assets/72582930/7b7296a9-2d47-4e49-8c8f-df8b08c13d95)
+
+![Design sem nome (5)](https://github.com/andrelms/andrelms/assets/72582930/c00c7ef7-05c3-4b74-a819-c6174d381aed)
 
 # Olá, Sou André Machado Cientista de Dados Especializado em Inteligência Artificial
 
