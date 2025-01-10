@@ -26,9 +26,3 @@
 🎓 Além disso, busquei aprimorar minhas habilidades com certificações adicionais em Agile Management & SCRUM, Design Thinking, Inteligência Artificial e Marketing Digital. Isso me permite aplicar minha expertise em Ciência de Dados e Inteligência Artificial para potencializar estratégias de marketing e impulsionar vendas.
 
  [![Canva](https://img.shields.io/badge/View%20Portfolio-Canva-blue?style=flat-square&logo=canva)](https://www.canva.com/design/DAFGIgk_xGo/uGTkcQucrBRvUJ0RGvladw/edit?utm_content=DAFGIgk_xGo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) &nbsp; &nbsp;[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/andr%C3%A9-machado-b7475257) &nbsp; &nbsp;[![Stack Overflow](https://img.shields.io/badge/Visit%20Profile-Stack%20Overflow-orange?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/9948374/andr%C3%A9-machado) &nbsp; &nbsp;[![YouTube](https://img.shields.io/badge/Visit%20Channel-YouTube-red?style=flat-square&logo=youtube)](https://www.youtube.com/@andrelms) &nbsp; &nbsp;[![Instagram](https://img.shields.io/badge/Visit%20Profile-Instagram-pink?style=flat-square&logo=instagram)](https://www.instagram.com/andrelms_) &nbsp; &nbsp;[![WhatsApp](https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=flat-square&logo=whatsapp)](https://api.whatsapp.com/send?phone=5551998837555) &nbsp; &nbsp;:email: [andrelms_@hotmail.com](mailto:andrelms_@hotmail.com)
-
-
-## Portfólio
-Veja meu portfólio completo no Canva:
-
-[Carreira de André Machado - Business Intelligence](https://www.canva.com/design/DAFGIgk_xGo/a4kMxHzsYlobUg8lrlc--Q/view?utm_content=DAFGIgk_xGo&utm_campaign=designshare&utm_medium=embeds&utm_source=link)
