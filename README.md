@@ -34,3 +34,12 @@
 [![Instagram](https://img.shields.io/badge/Visit%20Profile-Instagram-pink?style=plastic&logo=instagram)](https://www.instagram.com/andrelms_)  
 [![WhatsApp](https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=plastic&logo=whatsapp)](https://api.whatsapp.com/send?phone=5551998837555)  
 📧 Email: [andrelms_@hotmail.com](mailto:andrelms_@hotmail.com)
+
+
+[![Canva](https://via.placeholder.com/300x100.png?text=View+Portfolio+on+Canva)](https://www.canva.com/design/DAFGIgk_xGo/uGTkcQucrBRvUJ0RGvladw/edit?utm_content=DAFGIgk_xGo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+[![LinkedIn](https://via.placeholder.com/300x100.png?text=Connect+on+LinkedIn)](https://www.linkedin.com/in/andr%C3%A9-machado-b7475257)  
+[![Stack Overflow](https://via.placeholder.com/300x100.png?text=Visit+Profile+on+Stack+Overflow)](https://stackoverflow.com/users/9948374/andr%C3%A9-machado)  
+[![YouTube](https://via.placeholder.com/300x100.png?text=Visit+Channel+on+YouTube)](https://www.youtube.com/@andrelms)  
+[![Instagram](https://via.placeholder.com/300x100.png?text=Visit+Profile+on+Instagram)](https://www.instagram.com/andrelms_)  
+[![WhatsApp](https://via.placeholder.com/300x100.png?text=Chat+on+WhatsApp)](https://api.whatsapp.com/send?phone=5551998837555)  
+📧 Email: [andrelms_@hotmail.com](mailto:andrelms_@hotmail.com)
