@@ -1,5 +1,5 @@
 
-![Design sem nome (5)](https://github.com/andrelms/andrelms/assets/72582930/c00c7ef7-05c3-4b74-a819-c6174d381aed)
+![Novo Banner](https://drive.google.com/file/d/1ytBW2DpEO-XQvg3UcZlpta1wU0cAixn4/view?usp=drivesdk)
 
 # Olá, Sou André Machado Cientista de Dados Especializado em Inteligência Artificial
 
