@@ -1,5 +1,4 @@
-[![Ver no Canva](https://www.canva.com/thumbnail/DAGyD4NcMnw?sz=w1000)](https://www.canva.com/design/DAGyD4NcMnw/-Ak5W_gg1qfD6Anj6Nj9bA/view)
-
+![Novo Banner](https://drive.google.com/uc?export=view&id=1Oc3dyOuzxmBlcPB7zCTRPtt-l7EZPr_R/view?usp=drivesdk)
 
 # Olá, Sou André Machado Cientista de Dados Especializado em Inteligência Artificial
 
