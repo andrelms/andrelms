@@ -1,4 +1,4 @@
-![Novo Banner](https://drive.google.com/uc?export=view&id=1Oc3dyOuzxmBlcPB7zCTRPtt-l7EZPr_R/view?usp=drivesdk)
+![Novo Banner](https://drive.google.com/uc?export=view&id=1Oc3dyOuzxmBlcPB7zCTRPtt-l7EZPr_R)
 
 # Olá, Sou André Machado Cientista de Dados Especializado em Inteligência Artificial
 
