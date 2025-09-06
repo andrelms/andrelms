@@ -1,4 +1,4 @@
-![Novo Banner](https://drive.google.com/uc?export=view&id=1Oc3dyOuzxmBlcPB7zCTRPtt-l7EZPr_R)
+<img src="https://drive.google.com/uc?export=view&id=1Oc3dyOuzxmBlcPB7zCTRPtt-l7EZPr_R" alt="Novo Banner" width="1000"/>
 
 # Olá, Sou André Machado Cientista de Dados Especializado em Inteligência Artificial
 
