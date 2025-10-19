@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1vbzhQ5yhZKTezLvcxWFFdYGfBDo9CJis" alt="Novo Banner" width="1000" height="400"/>
+  <img src="https://drive.google.com/uc?export=view&id=1w2HBnk7ViTq-I89M8PlXpHOCbPp6b7eb" alt="Novo Banner" width="1000" height="400"/>
 </p>
 
 # Olá, Sou André Machado Cientista de Dados Especializado em Inteligência Artificial
