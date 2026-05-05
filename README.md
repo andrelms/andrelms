@@ -1,64 +1,131 @@
+Aqui está o README.md completo, já com banner + botões originais + botão do Insightful Data Explorer incluído + texto em português alinhado ao seu currículo. As informações técnicas e experiência refletem seu perfil profissional. 
+
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1EtwDFJ8Nht10Y0xBTUHuHK_niL1vjKxU" alt="Banner" width="1000" height="400"/>
 </p>
 
-# Hi, I'm André Machado  
-### Senior Data & Analytics Professional | Business Intelligence, AI & Data Engineering
+# Olá, eu sou André Machado  
+### Senior Data & AI Professional | Data Engineering, Analytics, LLMs & Cloud
 
-🚀 Results-driven **Data & Analytics professional** with strong experience in **Business Intelligence, Data Science, and AI applied to business decision-making**.
+🚀 Profissional sênior em **Data & Analytics**, com atuação em **Business Intelligence, Engenharia de Dados, Data Science e Inteligência Artificial aplicada ao negócio**.
 
-I specialize in transforming **complex datasets into actionable insights**, supporting leadership, product, and finance teams to improve performance, operational efficiency, and **P&L outcomes**.
+Especialista em transformar grandes volumes de dados em **insights acionáveis**, modernizar ambientes analíticos e conectar estratégia de negócio com tecnologia para geração de valor real.
 
----
-
-## 🔬 Core Expertise
-
-- **Data Science & Artificial Intelligence**  
-  Applying advanced analytics and AI models to support strategic decisions and innovation.
-
-- **Data Analysis**  
-  Data collection, cleaning, exploration, and pattern discovery to generate meaningful insights.
-
-- **Machine Learning**  
-  Development of supervised and unsupervised models for prediction, classification, and clustering.
-
-- **Deep Learning**  
-  Neural networks applied to Computer Vision, Natural Language Processing, and generative AI use cases.
-
-- **Data Visualization & Storytelling**  
-  Translating complex data into clear dashboards and visuals for effective communication.
-
-- **Advanced Statistics**  
-  Statistical modeling and hypothesis testing to support data-driven decisions.
+Atuação prática em projetos de migração, governança, arquitetura analítica, automações inteligentes e soluções escaláveis em cloud.
 
 ---
 
-## 🛠️ Tech Stack
+## 🔬 Especialidades
 
-- **Programming:** Python  
-- **BI & Analytics:** Power BI (DAX, Power Query), Advanced Excel (Power Pivot, VBA)  
-- **Databases:** PostgreSQL, BigQuery (Advanced SQL)  
-- **Big Data & Processing:** Spark, Hadoop, HiveQL, Scala  
-- **Cloud & Data Platforms:** Analytics-oriented cloud environments  
+### Data Engineering
+Desenvolvimento de pipelines ETL/ELT, integração de múltiplas fontes, processamento distribuído e arquitetura Lakehouse.
+
+### Business Intelligence & Analytics
+Construção de dashboards executivos, KPIs estratégicos e storytelling orientado à tomada de decisão.
+
+### Artificial Intelligence & LLMs
+Desenvolvimento de agentes inteligentes, OCR, automações com IA, modelos open source e aplicações com LLMs.
+
+### Data Science & Machine Learning
+Modelos preditivos, classificação, clustering e analytics avançado aplicados ao negócio.
+
+### Data Governance
+Qualidade, rastreabilidade, versionamento, reconciliação e padronização de ambientes analíticos.
+
+### Cloud & Modern Data Platforms
+Modernização de ecossistemas analíticos em ambientes distribuídos e escaláveis.
 
 ---
 
-## 🎓 Business & Leadership Background
+## 🛠️ Stack Tecnológica
 
-I complement my technical expertise with certifications and hands-on experience in:
+### Linguagens & Processamento
+- Python
+- SQL
+- Spark
+- Scala
+- HiveQL
 
-- Agile & Scrum  
-- Design Thinking  
-- AI for Business  
-- Marketing & Growth Analytics  
+### Dados & Analytics
+- Power BI
+- DAX
+- Power Query
+- Dataflows
+- Direct Lake
+- Qlik Sense
+- Excel Avançado
+- VBA
 
-This allows me to act as a strong **bridge between technical teams and executive stakeholders**, ensuring data solutions deliver real business value.
+### Bancos & Plataformas
+- PostgreSQL
+- BigQuery
+- Databricks
+- Microsoft Fabric
+
+### Cloud
+- Azure
+- Google Cloud Platform
+- Oracle Cloud
+
+### Engenharia & Integrações
+- APIs
+- ETL / ELT
+- Git
+- Versionamento
+- Automações
 
 ---
 
-## 🔗 Connect with me
+## 💼 Experiência de Destaque
+
+### Databricks + Dell Technologies
+✅ Migração de ambientes SAP, Oracle, Azure e SharePoint  
+✅ Arquitetura Lakehouse em camadas Bronze, Silver e Gold  
+✅ Processamento de mais de **1.5 bilhão de registros**  
+✅ Governança, performance e escalabilidade analítica  
+
+### Microsoft Fabric
+✅ Implementação com Direct Lake e Dataflows  
+✅ Redução de dependências técnicas  
+✅ Otimização de consumo para Power BI  
+
+### IA Aplicada
+✅ Desenvolvimento de agentes inteligentes  
+✅ OCR e automações cognitivas  
+✅ Pipelines com LLMs  
+✅ IA aplicada à eficiência operacional  
+
+---
+
+## 🚀 Projetos em Destaque
+
+### Insightful Data Explorer
+Plataforma de inteligência de dados com IA aplicada à automação, exploração inteligente de dados e analytics.
+
+🔗 https://insightful-data-explorer-27-sepia.vercel.app/site
+
+---
+
+## 🎓 Formação & Certificações
+
+🎓 Pós-graduação em **Data Science & Artificial Intelligence**  
+
+🎓 Bacharel em **Administração**  
+
+Certificações complementares em:
+
+- Agile & Scrum
+- Design Thinking
+- Growth Analytics
+- Marketing Intelligence
+- AI for Business
+
+---
+
+## 🔗 Conecte-se comigo
 
 [![Portfolio](https://img.shields.io/badge/View%20Portfolio-Canva-blue?style=flat-square&logo=canva)](https://www.canva.com/design/DAFGIgk_xGo/uGTkcQucrBRvUJ0RGvladw/edit)
+[![Projeto](https://img.shields.io/badge/Project-Insightful%20Data%20Explorer-purple?style=flat-square&logo=vercel)](https://insightful-data-explorer-27-sepia.vercel.app/site)
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/andr%C3%A9-machado-b7475257)
 [![Stack Overflow](https://img.shields.io/badge/Profile-Stack%20Overflow-orange?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/9948374/andr%C3%A9-machado)
 [![YouTube](https://img.shields.io/badge/Channel-YouTube-red?style=flat-square&logo=youtube)](https://www.youtube.com/@andrelms)
@@ -66,3 +133,7 @@ This allows me to act as a strong **bridge between technical teams and executive
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-brightgreen?style=flat-square&logo=whatsapp)](https://api.whatsapp.com/send?phone=5551998837555)
 
 📧 **Email:** [andrelms_@hotmail.com](mailto:andrelms_@hotmail.com)
+
+---
+
+⭐ *Transformando dados, IA e tecnologia em vantagem competitiva.*
