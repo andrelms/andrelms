@@ -1,5 +1,3 @@
-Aqui está o README.md completo, já com banner + botões originais + botão do Insightful Data Explorer incluído + texto em português alinhado ao seu currículo. As informações técnicas e experiência refletem seu perfil profissional. 
-
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1EtwDFJ8Nht10Y0xBTUHuHK_niL1vjKxU" alt="Banner" width="1000" height="400"/>
 </p>
