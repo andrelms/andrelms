@@ -3,7 +3,7 @@
 </p>
 
 # Olá, eu sou André Machado  
-### Senior Data & AI Professional | Data Engineering, Analytics, LLMs & Cloud
+### Analista de BI e Dados | Power BI · DAX · Databricks · Microsoft Fabric · Medallion · Python · IA
 
 🚀 Profissional sênior em **Data & Analytics**, com atuação em **Business Intelligence, Engenharia de Dados, Data Science e Inteligência Artificial aplicada ao negócio**.
 
@@ -98,9 +98,15 @@ Modernização de ecossistemas analíticos em ambientes distribuídos e escaláv
 ## 🚀 Projetos em Destaque
 
 ### Insightful Data Explorer
-Plataforma de inteligência de dados com IA aplicada à automação, exploração inteligente de dados e analytics.
+Plataforma de dados com coleta por web scraping, extração de PDFs com OCR e IA generativa (Gemini), PostgreSQL/Supabase, dashboards analíticos e chat de consulta sobre convenções coletivas de trabalho.
 
 🔗 https://insightful-data-explorer-27-sepia.vercel.app/site
+
+### [transcribe-saas](https://github.com/andrelms/transcribe-saas)
+Tradutor e assistente de entrevistas em tempo real (transcrição, tradução e respostas sugeridas por IA) — Next.js, TypeScript, Web Speech API e Ollama.
+
+### [Portfólio profissional](https://portfolio-andre-free.vercel.app/)
+Casos de BI e engenharia de dados: migração Qlik → Power BI, Lakehouse no Databricks com ~1,5 bilhão de linhas, Big Data do ENEM (86 milhões de linhas) e IA generativa.
 
 ---
 
@@ -122,9 +128,9 @@ Certificações complementares em:
 
 ## 🔗 Conecte-se comigo
 
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-Canva-blue?style=flat-square&logo=canva)](https://www.canva.com/design/DAFGIgk_xGo/uGTkcQucrBRvUJ0RGvladw/edit)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-Site-blue?style=flat-square&logo=vercel)](https://portfolio-andre-free.vercel.app/)
 [![Projeto](https://img.shields.io/badge/Project-Insightful%20Data%20Explorer-purple?style=flat-square&logo=vercel)](https://insightful-data-explorer-27-sepia.vercel.app/site)
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/andr%C3%A9-machado-b7475257)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/andreluismachadosilveira/)
 [![Stack Overflow](https://img.shields.io/badge/Profile-Stack%20Overflow-orange?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/9948374/andr%C3%A9-machado)
 [![YouTube](https://img.shields.io/badge/Channel-YouTube-red?style=flat-square&logo=youtube)](https://www.youtube.com/@andrelms)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat-square&logo=instagram)](https://www.instagram.com/andrelms_)
